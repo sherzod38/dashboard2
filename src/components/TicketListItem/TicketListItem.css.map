@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "TicketListItem.scss"
+    ],
+    "names": [],
+    "file": "TicketListItem.css"
+}

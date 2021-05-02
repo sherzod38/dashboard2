@@ -1,0 +1,33 @@
+.sidebar {
+    // height: 300%;
+    width: 25%;
+    background: #363740;
+    padding: 50px 0;
+    .link{
+      text-decoration: none;
+    }
+    .sidebar-btn:nth-child(7) {
+      border-bottom: 1px solid rgba(223, 224, 235, 0.08);
+    }
+    .sidebar-logo {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      padding: 20px 50px;
+      box-sizing: border-box;
+      img {
+        margin-right: 12px;
+      }
+      h2 {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 19px;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+        color: #a4a6b3;
+        opacity: 0.7;
+        // width: 150px;
+      }
+    }
+  }
+  
